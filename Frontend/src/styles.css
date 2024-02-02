@@ -1,0 +1,64 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+thead {
+    background-color: black;
+    color: #fff;
+}
+
+th,
+td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #e0e0e0;
+}
+
+button {
+    cursor: pointer;
+    padding: 8px;
+    margin: 0 5px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+}
+
+button.mark-complete {
+    background-color: #9b59b6;
+    /* Purple color */
+}
+
+button.delete {
+    background-color: #e74c3c;
+    /* Red color */
+}
+
+h2 {
+    text-align: center;
+    color: #333;
+    top:10px;
+    left: 10px;
+}
+
+.create-todo-btn{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: black;
+    color: white;
+}
