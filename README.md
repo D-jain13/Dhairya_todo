@@ -43,5 +43,6 @@ The backend is implemented in Spring Boot, offering a RESTful API for task manag
 ### Note : Please hit refresh in your browser if it is not auto rendering page, error because of react-router-dom
 
 <img width="957" alt="image" src="https://github.com/D-jain13/Dhairya_todo/assets/88362930/ce4b784c-d1c7-47e2-bac0-f240f0af8a67">
+<img width="960" alt="image" src="https://github.com/D-jain13/Dhairya_todo/assets/88362930/22ed705d-c752-4d54-bdb2-93f7364c03f0">
 <img width="960" alt="image" src="https://github.com/D-jain13/Dhairya_todo/assets/88362930/5a02756b-b206-42ff-9adf-1936a2675cc7">
 
