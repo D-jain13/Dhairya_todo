@@ -27,7 +27,7 @@ The backend is implemented in Spring Boot, offering a RESTful API for task manag
    2. Open a terminal and navigate to the backend
    3. Update the database configuration in src/main/resources/application.properties with your local MySQL details: 
     
-    ```bash
+    `
       spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
       spring.datasource.username=your_username
       spring.datasource.password=your_password
